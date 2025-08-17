@@ -9,9 +9,11 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.54.2",
+    "@types/jquery": "^3.5.32",
     "@types/node": "^24.2.1"
   },
   "dependencies": {
-    "npm": "^11.5.2"
+    "npm": "^11.5.2",
+    "playwright": "^1.54.2"
   }
 }
